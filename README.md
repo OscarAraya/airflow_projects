@@ -36,3 +36,7 @@ In case you need to add different queues, you need to change the command line fr
 
 E.g. command: celery worker -q queue_name
 
+Airflow Provider
+
+1. Create a new folder for the provider-name
+2. Create a .toml configuration file
